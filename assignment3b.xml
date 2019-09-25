@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href = "stylesheet.css"?>
+
+<setlist>
+	<heading>Setlist</heading>
+	<song>
+		<artist>A$AP Rocky</artist>
+		<title>Babushka Boi</title>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2019</year>
+	</song>
+	
+	<song>
+		<artist>The Head and the Heart</artist>
+		<title>Up Against The Wall</title>
+		<genre>Indie-Folk</genre>
+		<year>2019</year>
+	</song>
+
+ 	<song>
+		<artist>Chance the Rapper</artist>
+		<title>The Big Day</title>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2019</year>
+	</song>
+	
+	<song>
+		<artist>Rex Orange County</artist>
+		<title>New House</title>
+		<genre>Indie Pop</genre>
+		<year>2019</year>
+	</song>
+	
+	<song>
+		<artist>Bon Iver</artist>
+		<title>Faith</title>
+		<genre>Indie Folk</genre>
+		<year>2019</year>
+	</song>
+	
+	<song>
+		<artist>DaBaby</artist>
+		<title>Suge</title>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2019</year>
+	</song>
+	
+	<song>
+		<artist>Mac Miller</artist>
+		<title>The Question</title>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2012</year>
+	</song>
+	
+	<song>
+		<artist>Vance Joy</artist>
+		<title>Like Gold</title>
+		<genre>Indie Folk</genre>
+		<year>2018</year>
+	</song>
+	
+	<song>
+		<artist>Spoon</artist>
+		<title>Inside Out</title>
+		<genre>Indie Rock</genre>
+		<year>2014</year>
+	</song>
+	
+	<song>
+		<artist>Zac Brown Band</artist>
+		<title>Knee Deep (feat. Jimmy Buffett)</title>
+		<genre>Country</genre>
+		<year>2010</year>
+	</song>
+	
+</setlist>

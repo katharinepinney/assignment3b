@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+heading{
+	color: #FFF;
+	background-color: #000;
+	font-size: 40px;
+	width: 100%;
+	text-align: center;
+}
+
+setlist{
+	display: flex;
+	flex-direction: column;
+}
+
+song{
+	color: #2D6570;
+	background-color: #FFF;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+artist{
+	font-size: 30px;
+}
+
+title{
+	font-size: 25px;
+	font-weight: 300;
+}
+
+genre{
+	font-size: 20px;
+}
+
+year{
+	font-size: 18px;
+}
+
+artist, title, genre, year {
+	display: block;
+	padding: 3px 20px 0px;
+}
+
+
